@@ -4,6 +4,7 @@ export default function Home() {
   return (
     <div>
       <h1 className="flex justify-center items-center text-4xl h-[100vh]">Welcome to Code Selah Studios</h1>
+      <p>Get your MVP built with us</p>
     </div>
   );
 }
